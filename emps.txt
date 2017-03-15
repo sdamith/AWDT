@@ -1,0 +1,2 @@
+001:Nimal:1,Test Rd,Colombo:01/01/1990:M:ss@ss.lk
+002:Kamal:1234,xyz:01/05/1980:F:kamal@gmail.com
